@@ -8,6 +8,7 @@ body{
 	letter-spacing: .1px;
     line-height: 1.632;
     background-color: #658ca0;
+    text-decoration: none;
 }
 
 
@@ -111,18 +112,22 @@ nav{
 	font-size: 1.3em;
 	text-align: center;
 
+
 }
 
 .nav1{
-	margin-top: -200px;
+	margin-top: -360px;
 	margin-bottom: 10px;
+	text-decoration: none;
 }
 .nav2{	
 	margin-top:0%;	/* location of nav bar */
 	overflow:hidden;
+	text-decoration: none;
 }
 .navbar{
 	margin-top: 0px;
+	text-decoration: none;
 }
 
 
@@ -133,6 +138,7 @@ nav a, nav h3{
 	margin-left: 0em;
 	text-decoration: none;
 	color: white;
+
 
 }
 a{
@@ -145,6 +151,7 @@ nav a, a:hover{
 }
 
 h2 {
+	text-decoration: none;
 	font-size: 2em;
 	text-align: center;
 	font-family: Arial;
@@ -152,6 +159,7 @@ h2 {
 }
 
 footer{
+
 	font-size:.8em;
 	background-color: darkgrey;
 	display: block;
@@ -171,8 +179,9 @@ strong{
 }
 
 .finfo{
+	margin:auto;
 	width:20%;
-	margin-left: 60em;
+	margin-left: 50%;
 	bottom:90px;
 	text-align: center;
 	padding:50px;
@@ -180,9 +189,10 @@ strong{
 
 }
 .flink{
+	margin:auto;
 	position:relative;
-	width:20%;
-	margin-left: 30em;
+	width:25%;
+	margin-left: 20%;
 	bottom:152px;
 	text-align: center;
 	padding:10px;
